@@ -1,0 +1,11 @@
+/Users/sagar/Desktop/Stock1/obj/Debug/netcoreapp2.0/Stock1.csprojAssemblyReference.cache
+/Users/sagar/Desktop/Stock1/obj/Debug/netcoreapp2.0/Stock1.csproj.CoreCompileInputs.cache
+/Users/sagar/Desktop/Stock1/obj/Debug/netcoreapp2.0/Stock1.AssemblyInfoInputs.cache
+/Users/sagar/Desktop/Stock1/obj/Debug/netcoreapp2.0/Stock1.AssemblyInfo.cs
+/Users/sagar/Desktop/Stock1/bin/Debug/netcoreapp2.0/Stock1.deps.json
+/Users/sagar/Desktop/Stock1/bin/Debug/netcoreapp2.0/Stock1.runtimeconfig.json
+/Users/sagar/Desktop/Stock1/bin/Debug/netcoreapp2.0/Stock1.runtimeconfig.dev.json
+/Users/sagar/Desktop/Stock1/bin/Debug/netcoreapp2.0/Stock1.dll
+/Users/sagar/Desktop/Stock1/bin/Debug/netcoreapp2.0/Stock1.pdb
+/Users/sagar/Desktop/Stock1/obj/Debug/netcoreapp2.0/Stock1.dll
+/Users/sagar/Desktop/Stock1/obj/Debug/netcoreapp2.0/Stock1.pdb
